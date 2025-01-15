@@ -1,0 +1,246 @@
+{
+  "basics": {
+    "name": "Andrés Ochoa",
+    "label": "Software Developer & Data Expert",
+    "image": "/me_avatar.jpeg",
+    "email": "andressochoaa@gmail.com",
+    "phone": "+57 3008636253",
+    "url": "",
+    "summary": "Ingeniero de sistemas con dos años de experiencia en Desarrollo de Software, gestión de Bases de Datos y Automatización con Inteligencia Artificial. En mi tiempo libre comparto conocimiento en youtube y tik tok, ayudando a otras personas a entender la programación y las bases de datos de una manera práctica y accesible.",
+    "theme": "default",
+    "location": {
+      "address": "",
+      "postalCode": "10001",
+      "city": "Santa Marta",
+      "countryCode": "COL",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "andresochoacm",
+        "url": "https://linkedin.com/in/andresochoacm"
+      },
+      {
+        "network": "GitHub",
+        "username": "ingandresochoa",
+        "url": "https://github.com/ingandresochoa"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Agencia de Aduanas ABC Repecev",
+      "position": "Desarrollador Backend & RPA",
+      "location_type": "Hybrid",
+      "location": "Bogotá, Colombia",
+      "url": "",
+      "startDate": "2024-05-01",
+      "endDate": null,
+      "achievements": [
+        "Diseño y creación de bases de datos relacionales en SQL SERVER implementando STORED PROCEDURE.",
+        "Gestión y consumo de APIs con DJANGO, FLASK y FastAPI.",
+        "Automatización de +6 procesos usando PYTHON y SELENIUM integrando IA dentro de cada uno de estos proyectos logrando optimizar tiempo y costos operativos.",
+        "Gestión de proyectos en repositorio Azure DevOps y Git/Github.",
+        "Desarrollo de requerimientos usando PHP, Javascrit, JQuery y SQLite"
+      ],
+      "skills": [
+        "Python",
+        "Django",
+        "Flask",
+        "FastAPI",
+        "Sqlserver",
+        "Git",
+        "JavaScript",
+        "Selenium",
+        "SQLite",
+        "Azure DevOps",
+        "Php"
+      ]
+    },
+    {
+      "name": "Net Applications SAS",
+      "position": "Desarrollador RPA",
+      "location_type": "Hybrid",
+      "location": "Bogotá, Colombia",
+      "url": "",
+      "startDate": "2023-08-01",
+      "endDate": "2023-01-25",
+      "achievements": [
+        "Desarrollar script en Python para el consumo de APIs y tratamiento de datos internos.",
+        "Implementar procesos de automatización para la gestión de inventarios y generación de ordenes utilizando Automation Anywhere junto con Python y bases de datos SQL.",
+        "Realizar e integrar analisis de datos que proporcionan insights claves para la optimización de procesos y rendimiento empresarial."
+      ],
+      "skills": [
+        "Python",
+        "Sqlserver",
+        "Excel",
+        "Git"
+      ]
+    },
+    {
+      "name": "WM Wireless & Mobile",
+      "position": "Desarrollador Fullstack",
+      "location_type": "Remote",
+      "location": "Bogotá, Colombia",
+      "url": "",
+      "startDate": "2022-08-01",
+      "endDate": "2023-02-01",
+      "achievements": [
+        "Mejorar rendimiento y mantenibilidad de aplicaciones en .NET Core.",
+        "Gestionar bases de datos SQL Server y MySQL para el almacenamiento y recuperación de datos.",
+        "Desarrollar exitosamente funcionalidades claves usando C#, JAVASCRIPT, JQUERY y ANGULAR."
+      ],
+      "skills": [
+        "Sqlserver",
+        "MySQL",
+        ".NET Core",
+        "C#",
+        "JavaScript",
+        "Jquery",
+        "Angular"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad del Magdalena",
+      "url": "https://stateuniversity.edu",
+      "area": "Ingenieria de sistemas",
+      "studyType": "Bachelor",
+      "startDate": "2017-03-01",
+      "endDate": "2023-06-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Fundamentos de Ingeniería de Software",
+      "date": "2022-01-15",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/andres-ochoa947/curso/1098-ingenieria/diploma/detalle/"
+    },
+    {
+      "name": "Fundamentos de Bases de Datos",
+      "date": "2023-01-15",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/andres-ochoa947/curso/1566-fundamentos-db/diploma/detalle/"
+    },
+    {
+      "name": "Fundamentos de Python",
+      "date": "2023-01-15",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/andres-ochoa947/curso/4227-python-fundamentos/diploma/detalle/"
+    },
+    {
+      "name": "Programación Orientada a Objetos con C#",
+      "date": "2023-01-15",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/andres-ochoa947/curso/8036-c-sharp-poo/diploma/detalle/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python"
+    },
+    {
+      "name": "Django"
+    },
+    {
+      "name": "Tailwind"
+    },
+    {
+      "name": "Flask"
+    },
+    {
+      "name": "FastAPI"
+    },
+    {
+      "name": "Php"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "Jquery"
+    },
+    {
+      "name": "Sqlserver"
+    },
+    {
+      "name": "SQLite"
+    },
+    {
+      "name": "MySQL"
+    },
+    {
+      "name": ".NETCore"
+    },
+    {
+      "name": "C#"
+    },
+    {
+      "name": "Angular"
+    },
+    {
+      "name": "Azure DevOps"
+    },
+    {
+      "name": "Git"
+    },
+    {
+      "name": "GitHub"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Intermedio"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Nativo"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Generador de QR con logo personalizable",
+      "isActive": false,
+      "description": "Aplicación web para generar códigos QR personalizados con logos. Esta herramienta permite a los usuarios crear códigos QR únicos combinando sus URLs o texto con logos personalizados.",
+      "highlights": [
+        "qrcode para la generación de códigos QR",
+        "Pillow para el procesamiento de imágenes",
+        "Python, Bootstrap y Flask"
+      ],
+      "url": "https://johndoe.dev",
+      "github": "https://github.com/ingandresochoa/qr_generator_logo"
+    }
+  ]
+}
