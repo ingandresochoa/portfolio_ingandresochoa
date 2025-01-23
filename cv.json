@@ -6,7 +6,7 @@
     "email": "andressochoaa@gmail.com",
     "phone": "+57 3008636253",
     "url": "",
-    "summary": "Ingeniero de sistemas con dos años de experiencia en Desarrollo de Software, gestión de Bases de Datos y Automatización con Inteligencia Artificial. En mi tiempo libre comparto conocimiento en youtube y tik tok, ayudando a otras personas a entender la programación y las bases de datos de una manera práctica y accesible.",
+    "summary": "Systems engineer with two years of experience in Software Development, Database Management and Automation with Artificial Intelligence. In my free time I share knowledge on YouTube and TikTok, helping other people understand programming and databases in a practical and accessible way.",
     "theme": "default",
     "location": {
       "address": "",
@@ -31,18 +31,18 @@
   "work": [
     {
       "name": "Agencia de Aduanas ABC Repecev",
-      "position": "Desarrollador Backend & RPA",
+      "position": "Backend & RPA Developer",
       "location_type": "Hybrid",
       "location": "Bogotá, Colombia",
       "url": "",
       "startDate": "2024-05-01",
       "endDate": null,
       "achievements": [
-        "Diseño y creación de bases de datos relacionales en SQL SERVER implementando STORED PROCEDURE.",
-        "Gestión y consumo de APIs con DJANGO, FLASK y FastAPI.",
-        "Automatización de +6 procesos usando PYTHON y SELENIUM integrando IA dentro de cada uno de estos proyectos logrando optimizar tiempo y costos operativos.",
-        "Gestión de proyectos en repositorio Azure DevOps y Git/Github.",
-        "Desarrollo de requerimientos usando PHP, Javascrit, JQuery y SQLite"
+        "Design and creation of relational databases in SQL SERVER implementing STORED PROCEDURE.",
+        "Management and consumption of APIs with DJANGO, FLASK and FastAPI.",
+        "Automation of +6 processes using PYTHON and SELENIUM integrating AI within each of these projects achieving optimization of time and operating costs.",
+        "Project management in Azure DevOps and Git/Github repository.",
+        "Development of requirements using PHP, Javascrit, JQuery and SQLite"
       ],
       "skills": [
         "Python",
@@ -60,16 +60,16 @@
     },
     {
       "name": "Net Applications SAS",
-      "position": "Desarrollador RPA",
+      "position": "RPA Developer",
       "location_type": "Hybrid",
       "location": "Bogotá, Colombia",
       "url": "",
       "startDate": "2023-08-01",
       "endDate": "2023-01-25",
       "achievements": [
-        "Desarrollar script en Python para el consumo de APIs y tratamiento de datos internos.",
-        "Implementar procesos de automatización para la gestión de inventarios y generación de ordenes utilizando Automation Anywhere junto con Python y bases de datos SQL.",
-        "Realizar e integrar analisis de datos que proporcionan insights claves para la optimización de procesos y rendimiento empresarial."
+        "Develop Python scripts for API consumption and internal data processing.",
+        "Implement automation processes for inventory management and order generation using Automation Anywhere in conjunction with Python and SQL databases.",
+        "Perform and integrate data analysis that provides key insights for process optimization and business performance."
       ],
       "skills": [
         "Python",
@@ -80,16 +80,16 @@
     },
     {
       "name": "WM Wireless & Mobile",
-      "position": "Desarrollador Fullstack",
+      "position": "Fullstack Developer",
       "location_type": "Remote",
       "location": "Bogotá, Colombia",
       "url": "",
       "startDate": "2022-08-01",
       "endDate": "2023-02-01",
       "achievements": [
-        "Mejorar rendimiento y mantenibilidad de aplicaciones en .NET Core.",
-        "Gestionar bases de datos SQL Server y MySQL para el almacenamiento y recuperación de datos.",
-        "Desarrollar exitosamente funcionalidades claves usando C#, JAVASCRIPT, JQUERY y ANGULAR."
+        "Improve performance and maintainability of applications in .NET Core.",
+        "Manage SQL Server and MySQL databases for data storage and retrieval.",
+        "Successfully develop key functionalities using C#, JAVASCRIPT, JQUERY and ANGULAR."
       ],
       "skills": [
         "Sqlserver",
@@ -118,8 +118,8 @@
   "education": [
     {
       "institution": "Universidad del Magdalena",
-      "url": "https://stateuniversity.edu",
-      "area": "Ingenieria de sistemas",
+      "url": "www.unimagdalena.edu.co",
+      "area": "System engineering",
       "studyType": "Bachelor",
       "startDate": "2017-03-01",
       "endDate": "2023-06-01"
@@ -127,25 +127,25 @@
   ],
   "certificates": [
     {
-      "name": "Fundamentos de Ingeniería de Software",
+      "name": "Fundamentals of Software Engineering",
       "date": "2022-01-15",
       "issuer": "Platzi",
       "url": "https://platzi.com/p/andres-ochoa947/curso/1098-ingenieria/diploma/detalle/"
     },
     {
-      "name": "Fundamentos de Bases de Datos",
+      "name": "Database Fundamentals",
       "date": "2023-01-15",
       "issuer": "Platzi",
       "url": "https://platzi.com/p/andres-ochoa947/curso/1566-fundamentos-db/diploma/detalle/"
     },
     {
-      "name": "Fundamentos de Python",
+      "name": "Python Fundamentals",
       "date": "2023-01-15",
       "issuer": "Platzi",
       "url": "https://platzi.com/p/andres-ochoa947/curso/4227-python-fundamentos/diploma/detalle/"
     },
     {
-      "name": "Programación Orientada a Objetos con C#",
+      "name": "Object Oriented Programming with C#",
       "date": "2023-01-15",
       "issuer": "Platzi",
       "url": "https://platzi.com/p/andres-ochoa947/curso/8036-c-sharp-poo/diploma/detalle/"
@@ -231,13 +231,13 @@
   ],
   "projects": [
     {
-      "name": "Generador de QR con logo personalizable",
+      "name": "QR generator with customizable logo",
       "isActive": false,
-      "description": "Aplicación web para generar códigos QR personalizados con logos. Esta herramienta permite a los usuarios crear códigos QR únicos combinando sus URLs o texto con logos personalizados.",
+      "description": "Web application to generate custom QR codes with logos. This tool allows users to create unique QR codes by combining their URLs or text with custom logos.",
       "highlights": [
-        "qrcode para la generación de códigos QR",
-        "Pillow para el procesamiento de imágenes",
-        "Python, Bootstrap y Flask"
+        "qrcode for QR code generation",
+        "Pillow for image processing",
+        "Python, Bootstrap and Flask"
       ],
       "url": "https://johndoe.dev",
       "github": "https://github.com/ingandresochoa/qr_generator_logo"
