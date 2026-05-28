@@ -290,29 +290,16 @@
     {
       "name": "EziApply",
       "isActive": false,
-      "description": "Platform that helps candidates tailor their resume to a specific job description, increasing relevance and improving the chances of getting a response.",
+      "description": "Platform that helps candidates tailor their resume to a specific job description, increasing relevance and improving the chances of getting a response. AI-powered resume optimization.",
       "highlights": [
-        "Resume optimization workflow (template)",
-        "Job description → resume alignment (template)",
-        "Scoring / suggestions (template)",
-        "FastAPI (planned)",
-        "AI-assisted rewriting (planned)"
+        "Job description → resume alignment",
+        "ATS compatibility",
+        "Scoring / suggestions",
+        "Secure Backend",
+        "Traceability of applications",
+        "AI-powered resume optimization"
       ],
-      "url": "",
-      "github": ""
-    },
-    {
-      "name": "Construction Budgeting Platform",
-      "isActive": false,
-      "description": "Work-in-progress platform to create, track, and export construction budgets (materials, labor, indirect costs) with reusable templates.",
-      "highlights": [
-        "Budget templates (template)",
-        "Materials & labor breakdown (template)",
-        "Export to PDF/Excel (template)",
-        "Role-based access (planned)",
-        "Audit trail (planned)"
-      ],
-      "url": "",
+      "url": "https://eziapply.vercel.app/",
       "github": ""
     }
   ]
