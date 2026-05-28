@@ -15,32 +15,40 @@ import { basics } from "@cv";
 const { name, label } = basics;
 ---
 
-<Layout title={`${name} Portafolio - ${label}`}>
-	<main class="relative grid max-w-7xl gap-12 p-8 max-sm:py-16 md:grid-cols-6 md:p-16 xl:gap-24 print:max-w-none print:grid-cols-1 print:gap-6">
-		<div class="space-y-6 md:col-span-2 print:col-span-1 print:grid print:grid-cols-2 print:gap-5 print:space-y-0">
+<Layout title={`${name} — ${label}`}>
+	<main>
+		<div class="mx-auto max-w-6xl px-6 pb-20 pt-10 md:px-10 md:pt-16 print:max-w-none print:px-0 print:pt-0">
+			<div class="flex items-center justify-end print:hidden">
+				<ThemeSwitch />
+			</div>
+
 			<Hero />
-			<About />
-			<ThemeSwitch />
+
+			<div class="mt-12 grid gap-10 md:mt-16 md:grid-cols-12">
+				<section class="md:col-span-7 lg:col-span-8">
+					<Projects className="print:hidden" />
+					<Experience className="mt-10" />
+				</section>
+				<aside class="md:col-span-5 lg:col-span-4">
+					<div class="mt-10 grid gap-10 md:mt-0">
+						<About />
+						<Skills className="print:hidden" />
+						<Education />
+					</div>
+				</aside>
+			</div>
+
+			<Tail />
 		</div>
-		<div class="space-y-12 md:col-span-4 print:col-span-1 print:grid print:grid-cols-4 print:gap-2 print:space-y-0">
-			<Experience className="print:col-span-3" />
-			<Projects className="print:hidden" />
-			<Skills className="print:hidden" />
-			<Education className="order-first" />
-		</div>
-		<Tail />
+
+		<KeyboardManager />
 	</main>
 
-	<KeyboardManager />
 </Layout>
 
 <style>
 	@page {
 		size: auto;
 		margin: 0mm;
-	}
-	main {
-		margin: auto;
-		width: 100%;
 	}
 </style>

@@ -1,12 +1,13 @@
 {
   "basics": {
     "name": "Andrés Ochoa",
-    "label": "Software Developer & Data Expert",
+    "label": "Backend & Automation Engineer",
     "image": "/me_avatar.jfif",
     "email": "andressochoaa@gmail.com",
     "phone": "+57 3008636253",
     "url": "",
-    "summary": "Systems engineer with two years of experience in Software Development, Database Management and Automation with Artificial Intelligence. In my free time I share knowledge on YouTube and TikTok, helping other people understand programming and databases in a practical and accessible way.",
+    "principal_summary": "Systems Engineer with 3+ years of experience across backend development, process automation, and data analysis. I build reliable APIs and integrations using Python (FastAPI, Django, Flask), design scalable relational databases (SQL Server), and automate workflows with tools like Power Automate and n8n to reduce manual work and improve operational efficiency.",
+    "summary": "Data & RPA Developer | Python, FastAPI & Django Expert | APIs, Integrations & Automation | AI Implementation | N8N Specialist",
     "theme": "default",
     "location": {
       "address": "",
@@ -30,75 +31,116 @@
   },
   "work": [
     {
-      "name": "Agencia de Aduanas ABC Repecev",
-      "position": "Backend & RPA Developer",
-      "location_type": "Hybrid",
-      "location": "Bogotá, Colombia",
+      "name": "Financiera Comultrasan",
+      "position": "Automation Engineer",
+      "location_type": "On-site",
+      "location": "Bucaramanga, Santander",
       "url": "",
-      "startDate": "2024-05-01",
+      "startDate": "2025-12-01",
       "endDate": null,
       "achievements": [
-        "Design and creation of relational databases in SQL SERVER implementing STORED PROCEDURE.",
-        "Management and consumption of APIs with DJANGO, FLASK and FastAPI.",
-        "Automation of +6 processes using PYTHON and SELENIUM integrating AI within each of these projects achieving optimization of time and operating costs.",
-        "Project management in Azure DevOps and Git/Github repository.",
-        "Development of requirements using PHP, Javascrit, JQuery and SQLite"
+        "Automated business processes using Microsoft Power Platform (Power Automate) and Python for data processing, task automation, and REST API consumption.",
+        "Integrated internal systems and external platforms via APIs, optimizing workflows and reducing manual tasks across financial processes.",
+        "Designed and structured relational database schemas from scratch, ensuring scalability and data consistency."
+      ],
+      "skills": [
+        "Python",
+        "Power Automate",
+        "Power Platform",
+        "REST APIs",
+        "SQL Server",
+        "Data Processing"
+      ]
+    },
+    {
+      "name": "Agencia de Aduanas ABC Repecev SAS (Nivel 1)",
+      "position": "Backend & RPA Developer",
+      "location_type": "Hybrid",
+      "location": "Santa Marta, Colombia",
+      "url": "",
+      "startDate": "2024-05-01",
+      "endDate": "2025-12-01",
+      "achievements": [
+        "Designed and optimized relational databases in SQL Server, using stored procedures to improve performance and data management.",
+        "Developed and integrated REST APIs with Django, Flask, and FastAPI for secure and efficient data exchange.",
+        "Automated 7+ business processes using Python and AI integrations, reducing operational time and costs.",
+        "Managed projects and version control using Git/GitHub and Azure DevOps; collaborated on scalability and operational efficiency initiatives."
       ],
       "skills": [
         "Python",
         "Django",
         "Flask",
         "FastAPI",
-        "Sqlserver",
+        "SQL Server",
         "Git",
-        "JavaScript",
-        "Selenium",
-        "SQLite",
+        "GitHub",
         "Azure DevOps",
-        "Php"
+        "APIs",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Somos.plus (EH2 Ingeniería)",
+      "position": "RPA Developer",
+      "location_type": "Remote",
+      "location": "Spain",
+      "url": "",
+      "startDate": "2025-09-01",
+      "endDate": "2025-11-01",
+      "achievements": [
+        "Designed and developed complex workflows in n8n to automate repetitive operational tasks.",
+        "Integrated APIs, CRMs, and corporate forms using HTTP nodes, Webhooks, and custom logic.",
+        "Built data pipelines and synchronization processes to ensure data consistency; documented and optimized workflows for maintainability."
+      ],
+      "skills": [
+        "n8n",
+        "Webhooks",
+        "APIs",
+        "Automation",
+        "Data Pipelines"
       ]
     },
     {
       "name": "Net Applications SAS",
-      "position": "RPA Developer",
+      "position": "RPA Developer & Data Analyst",
       "location_type": "Hybrid",
       "location": "Bogotá, Colombia",
       "url": "",
       "startDate": "2023-08-01",
-      "endDate": "2023-01-25",
+      "endDate": "2024-01-01",
       "achievements": [
-        "Develop Python scripts for API consumption and internal data processing.",
-        "Implement automation processes for inventory management and order generation using Automation Anywhere in conjunction with Python and SQL databases.",
-        "Perform and integrate data analysis that provides key insights for process optimization and business performance."
+        "Developed Python scripts for API consumption and internal data processing.",
+        "Automated inventory management and purchase order generation using Automation Anywhere and SQL.",
+        "Performed data analysis to optimize operational processes, reducing manual errors and increasing productivity."
       ],
       "skills": [
         "Python",
-        "Sqlserver",
-        "Excel",
-        "Git"
+        "SQL",
+        "Automation Anywhere",
+        "Data Analysis"
       ]
     },
     {
       "name": "WM Wireless & Mobile",
-      "position": "Fullstack Developer",
+      "position": "Full Stack Developer",
       "location_type": "Remote",
-      "location": "Bogotá, Colombia",
+      "location": "Colombia",
       "url": "",
       "startDate": "2022-08-01",
       "endDate": "2023-02-01",
       "achievements": [
-        "Improve performance and maintainability of applications in .NET Core.",
-        "Manage SQL Server and MySQL databases for data storage and retrieval.",
-        "Successfully develop key functionalities using C#, JAVASCRIPT, JQUERY and ANGULAR."
+        "Improved performance and maintainability of applications developed in .NET Core.",
+        "Managed SQL Server and MySQL databases for efficient data storage and retrieval.",
+        "Built core features using C#, JavaScript, Angular, and jQuery; contributed to backend architecture improvements."
       ],
       "skills": [
-        "Sqlserver",
-        "MySQL",
         ".NET Core",
         "C#",
+        "SQL Server",
+        "MySQL",
         "JavaScript",
-        "Jquery",
-        "Angular"
+        "Angular",
+        "jQuery"
       ]
     }
   ],
@@ -127,16 +169,16 @@
   ],
   "certificates": [
     {
-      "name": "Fundamentals of Software Engineering",
-      "date": "2022-01-15",
-      "issuer": "Platzi",
-      "url": "https://platzi.com/p/andres-ochoa947/curso/1098-ingenieria/diploma/detalle/"
-    },
-    {
-      "name": "Database Fundamentals",
+      "name": "Data Engineering with Python",
       "date": "2023-01-15",
       "issuer": "Platzi",
       "url": "https://platzi.com/p/andres-ochoa947/curso/1566-fundamentos-db/diploma/detalle/"
+    },
+    {
+      "name": "Object Oriented Programming with C#",
+      "date": "2023-01-15",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/andres-ochoa947/curso/8036-c-sharp-poo/diploma/detalle/"
     },
     {
       "name": "Python Fundamentals",
@@ -145,10 +187,16 @@
       "url": "https://platzi.com/p/andres-ochoa947/curso/4227-python-fundamentos/diploma/detalle/"
     },
     {
-      "name": "Object Oriented Programming with C#",
+      "name": "Database Fundamentals",
       "date": "2023-01-15",
       "issuer": "Platzi",
-      "url": "https://platzi.com/p/andres-ochoa947/curso/8036-c-sharp-poo/diploma/detalle/"
+      "url": "https://platzi.com/p/andres-ochoa947/curso/1566-fundamentos-db/diploma/detalle/"
+    },
+    {
+      "name": "Fundamentals of Software Engineering",
+      "date": "2022-01-15",
+      "issuer": "Platzi",
+      "url": "https://platzi.com/p/andres-ochoa947/curso/1098-ingenieria/diploma/detalle/"
     }
   ],
   "skills": [
@@ -157,9 +205,6 @@
     },
     {
       "name": "Django"
-    },
-    {
-      "name": "Tailwind"
     },
     {
       "name": "Flask"
@@ -198,10 +243,22 @@
       "name": "Azure DevOps"
     },
     {
-      "name": "Git"
+      "name": "Git & GitHub"
     },
     {
-      "name": "GitHub"
+      "name": "N8N"
+    },
+    {
+      "name": "Automation Anywhere"
+    },
+    {
+      "name": "Power Platform"
+    },
+    {
+      "name": "Oracle Database"
+    },
+    {
+      "name": "PostgreSQL"
     }
   ],
   "languages": [
@@ -231,16 +288,32 @@
   ],
   "projects": [
     {
-      "name": "QR generator with customizable logo",
+      "name": "EziApply",
       "isActive": false,
-      "description": "Web application to generate custom QR codes with logos. This tool allows users to create unique QR codes by combining their URLs or text with custom logos.",
+      "description": "Platform that helps candidates tailor their resume to a specific job description, increasing relevance and improving the chances of getting a response.",
       "highlights": [
-        "qrcode for QR code generation",
-        "Pillow for image processing",
-        "Python, Bootstrap and Flask"
+        "Resume optimization workflow (template)",
+        "Job description → resume alignment (template)",
+        "Scoring / suggestions (template)",
+        "FastAPI (planned)",
+        "AI-assisted rewriting (planned)"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com/ingandresochoa/qr_generator_logo"
+      "url": "",
+      "github": ""
+    },
+    {
+      "name": "Construction Budgeting Platform",
+      "isActive": false,
+      "description": "Work-in-progress platform to create, track, and export construction budgets (materials, labor, indirect costs) with reusable templates.",
+      "highlights": [
+        "Budget templates (template)",
+        "Materials & labor breakdown (template)",
+        "Export to PDF/Excel (template)",
+        "Role-based access (planned)",
+        "Audit trail (planned)"
+      ],
+      "url": "",
+      "github": ""
     }
   ]
 }

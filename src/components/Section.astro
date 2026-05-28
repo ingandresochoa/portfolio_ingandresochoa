@@ -1,8 +1,14 @@
 ---
-const { className, title } = Astro.props;
+const { className, title, id, kicker, subtitle } = Astro.props;
 ---
 
-<section class:list={["flex flex-col gap-4 print:gap-0", className]}>
-	{title && <h3 class="relative flex w-full items-center gap-3 pb-4 text-3xl print:gap-1 print:pb-0 print:text-xl">{title}</h3>}
+<section id={id} class:list={["scroll-mt-24", className]}>
+	{(title || kicker || subtitle) && (
+		<header class="mb-6">
+			{kicker && <p class="text-xs font-semibold uppercase tracking-[0.14em] text-skin-hue">{kicker}</p>}
+			{title && <h2 class="mt-2 text-2xl font-semibold tracking-tight text-skin-base md:text-3xl">{title}</h2>}
+			{subtitle && <p class="mt-2 max-w-2xl text-sm text-skin-muted md:text-base">{subtitle}</p>}
+		</header>
+	)}
 	<slot />
 </section>
